@@ -11,6 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="Label1" runat="server" Text="Primera edicion"></asp:Label>
+            <asp:Label ID="Label2" runat="server" Text="Segunda edicion"></asp:Label>
         </div>
     </form>
 </body>
